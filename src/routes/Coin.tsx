@@ -162,8 +162,8 @@ interface PriceData {
     };
 }
 
-interface ICoinProps {
-}
+// interface ICoinProps {
+// }
 
 function Coin() {
 

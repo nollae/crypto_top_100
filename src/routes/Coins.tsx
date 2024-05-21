@@ -84,9 +84,8 @@ interface ICoin {
     type: string
 }
 
-interface ICoinsProps {
-    
-}
+// interface ICoinsProps {
+// }
 
 function Coins() {
 
